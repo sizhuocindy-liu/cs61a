@@ -1,4 +1,4 @@
-# selected_academic_projects
-Selected Academic Projects in R, Python, MATLAB, Scheme, SQL, etc. \
--Projects from classes taken at UC Berkeley\
--Projects done individually outside of class
+# CS61A UC BERKELEY
+Selected projects, homework, labs, etc. from CS61A\
+-Most assignments are written in python\
+-A few assignments are written in Scheme and SQL
